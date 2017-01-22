@@ -1,0 +1,107 @@
+body {
+	background: #EBDCF3;
+	margin: 0;
+}
+
+.header{
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#subHeader{
+	background: yellow;
+}
+
+.container {
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+}
+
+.warning {
+	color: red;
+	font-weight: bold;
+}
+
+#search-form {
+	background: white;
+	margin: 0 auto;
+	width: 800px;
+	text-align: center;
+}
+
+#map {
+	height: 500px;
+	margin: 30px;
+}
+
+#images {
+	border: none;
+	background: #EBDCF3;
+}
+
+#log_in {
+	background: #EBDCF3;
+	text-align: center;
+}
+
+.event-img {
+	width: 100px;
+	height: 50px;
+	margin: 0 auto;
+	visibility: hidden;
+}
+
+.menu {
+	margin: 30px;
+}
+
+.hCol {
+	background: red;
+}
+
+.event-location {
+	font-weight: normal;
+}
+
+span {
+	font-weight: bold;
+}
+
+nav {
+	background: yellow;
+	padding: 5px;
+	margin: 15px 0;
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+form, td {
+	background: #40E0D0;
+}
+
+td {
+	border: 3px solid white;
+}
+
+form {
+	width: 50%;
+	margin: auto;
+	text-align: left;
+}
+
+p {
+	margin: 3px 10px;
+	padding: 2px 0;
+}
+
+.time{
+	font-style: italic;
+	font-weight: bold;
+}
+
